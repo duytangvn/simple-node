@@ -35,4 +35,4 @@ after_success:
   - docker push tanghoaiduy/udagram-api-feed:v1
   - docker push tanghoaiduy/udagram-api-user:v1
   - docker push tanghoaiduy/udagram-frontend:v1
-  - docker push tanghoaiduy/udagram-reverseproxy:v1
+  - docker push tanghoaiduy/reverseproxy:v1
